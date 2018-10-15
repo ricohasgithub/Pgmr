@@ -5,8 +5,12 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Pgmr"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="800" Background="#FF415175">
     <Grid>
-        
+        <StackPanel HorizontalAlignment="Left" Height="420
+" Margin="543,0,0,-0.333" VerticalAlignment="Top" Width="250" Background="#FF373B52"/>
+        <TextBlock x:Name="Info" HorizontalAlignment="Left" Margin="543,10,0,0" TextWrapping="Wrap" Text="What to Do:" VerticalAlignment="Top" Height="53" Width="250" Foreground="#FFFAFAFA" FontSize="36" TextAlignment="Center" FontFamily="Segoe UI Semibold"/>
+
+         
     </Grid>
 </Window>

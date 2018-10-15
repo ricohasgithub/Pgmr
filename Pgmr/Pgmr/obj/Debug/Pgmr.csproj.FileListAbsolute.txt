@@ -1,0 +1,15 @@
+C:\Users\ricoz\source\repos\Pgmr\Pgmr\Pgmr\bin\Debug\Pgmr.exe.config
+C:\Users\ricoz\source\repos\Pgmr\Pgmr\Pgmr\bin\Debug\Pgmr.exe
+C:\Users\ricoz\source\repos\Pgmr\Pgmr\Pgmr\bin\Debug\Pgmr.pdb
+C:\Users\ricoz\source\repos\Pgmr\Pgmr\Pgmr\obj\Debug\Pgmr.csprojAssemblyReference.cache
+C:\Users\ricoz\source\repos\Pgmr\Pgmr\Pgmr\obj\Debug\MainWindow.g.cs
+C:\Users\ricoz\source\repos\Pgmr\Pgmr\Pgmr\obj\Debug\App.g.cs
+C:\Users\ricoz\source\repos\Pgmr\Pgmr\Pgmr\obj\Debug\Pgmr_MarkupCompile.cache
+C:\Users\ricoz\source\repos\Pgmr\Pgmr\Pgmr\obj\Debug\Pgmr_MarkupCompile.lref
+C:\Users\ricoz\source\repos\Pgmr\Pgmr\Pgmr\obj\Debug\MainWindow.baml
+C:\Users\ricoz\source\repos\Pgmr\Pgmr\Pgmr\obj\Debug\Pgmr.g.resources
+C:\Users\ricoz\source\repos\Pgmr\Pgmr\Pgmr\obj\Debug\Pgmr.Properties.Resources.resources
+C:\Users\ricoz\source\repos\Pgmr\Pgmr\Pgmr\obj\Debug\Pgmr.csproj.GenerateResource.cache
+C:\Users\ricoz\source\repos\Pgmr\Pgmr\Pgmr\obj\Debug\Pgmr.csproj.CoreCompileInputs.cache
+C:\Users\ricoz\source\repos\Pgmr\Pgmr\Pgmr\obj\Debug\Pgmr.exe
+C:\Users\ricoz\source\repos\Pgmr\Pgmr\Pgmr\obj\Debug\Pgmr.pdb
