@@ -7,10 +7,15 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800" Background="#FF415175">
     <Grid>
-        <StackPanel HorizontalAlignment="Left" Height="420
-" Margin="543,0,0,-0.333" VerticalAlignment="Top" Width="250" Background="#FF373B52"/>
-        <TextBlock x:Name="Info" HorizontalAlignment="Left" Margin="543,10,0,0" TextWrapping="Wrap" Text="What to Do:" VerticalAlignment="Top" Height="53" Width="250" Foreground="#FFFAFAFA" FontSize="36" TextAlignment="Center" FontFamily="Segoe UI Semibold"/>
+        <TextBlock x:Name="Info" HorizontalAlignment="Left" Margin="543,0,0,0" TextWrapping="Wrap" Text="What to Do:" VerticalAlignment="Top" Height="63" Width="250" Foreground="#FFFAFAFA" FontSize="36" TextAlignment="Center" FontFamily="Segoe UI Semibold" Background="#FF373B52"/>
+        <StackPanel HorizontalAlignment="Left" Height="356" Margin="543,64,0,0" VerticalAlignment="Top" Width="250" Background="#FF373B52">
+            <Button x:Name="button0" Content="Button" HorizontalAlignment="Left" Height="71" Width="250" Background="#FF373B52"/>
+            <Button x:Name="button1" Content="Button" HorizontalAlignment="Left" Width="250" Margin="543,156,0,193.667" Background="#FF373B52"/>
+            <Button x:Name="button2" Content="Button" HorizontalAlignment="Left" Width="250" Margin="543,253,0,96.667" Background="#FF373B52"/>
+            <Button x:Name="button3" Content="Button" HorizontalAlignment="Left" Width="250" Margin="543,350,0,-0.333" Background="#FF373B52"/>
+        </StackPanel>
+       
 
-         
+
     </Grid>
 </Window>
