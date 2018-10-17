@@ -86,10 +86,11 @@ namespace Pgmr
         }
 
         internal System.Windows.Controls.TextBlock Info;
+        internal System.Windows.Controls.Button button0;
         internal System.Windows.Controls.Button button1;
         internal System.Windows.Controls.Button button2;
         internal System.Windows.Controls.Button button3;
-        internal System.Windows.Controls.Button button0;
+        internal System.Windows.Controls.Button button4;
     }
 }
 
