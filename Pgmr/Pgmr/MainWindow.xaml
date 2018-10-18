@@ -15,6 +15,8 @@
             <Button x:Name="button3" Content="See Coding Tips" HorizontalAlignment="Left" Height="71" Width="250" BorderBrush="#FF373B52" FontSize="20" Foreground="White" Background="#FF373B52"/>
             <Button x:Name="button4" Content="Drink Some Coffee" HorizontalAlignment="Left" Height="71" Width="250" BorderBrush="#FF373B52" FontSize="20" Foreground="White" Background="#FF373B52"/>
         </StackPanel>
+        <TextBlock x:Name="mainInfo" HorizontalAlignment="Left" Height="88" Margin="26,31,0,0" TextWrapping="Wrap" Text="Welcome" VerticalAlignment="Top" Width="334" FontSize="72" FontWeight="Bold" Foreground="White"/>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Height="237" Margin="26,143,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="480" FontSize="36" Foreground="White"><Run Text=" - This is your learning space"/><LineBreak/><Run Text=" "/><LineBreak/><Run Text=" - "/></TextBlock>
 
 
 
