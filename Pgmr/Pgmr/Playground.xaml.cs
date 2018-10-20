@@ -10,27 +10,18 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace Pgmr
 {
-
-    public partial class MainWindow : Window
+    /// <summary>
+    /// Interaction logic for Playground.xaml
+    /// </summary>
+    public partial class Playground : Window
     {
-        public MainWindow()
+        public Playground(String type)
         {
             InitializeComponent();
-        }
-
-        public String GetRanString()
-        {
-            return "Hello World";
-        }
-
-        public void NavWindow(String type)
-        {
-
         }
     }
 }
