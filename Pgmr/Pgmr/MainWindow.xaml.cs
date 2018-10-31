@@ -16,7 +16,9 @@ using System.Windows.Shapes;
 namespace Pgmr
 {
 
-    public partial class MainWindow : Window
+
+
+    public partial class MainWindow : NavigationWindow
     {
         public MainWindow()
         {
@@ -30,7 +32,10 @@ namespace Pgmr
 
         public void NavWindow(String type)
         {
+            if (type.Equals(""))
+            {
 
+            }
         }
     }
 }
